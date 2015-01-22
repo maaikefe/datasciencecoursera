@@ -1,0 +1,1 @@
+read me file om te checken wat er gebeurt als ik git status vraag
